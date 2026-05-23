@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/romaxa55/world_ip_tv/check.yml?branch=main&style=for-the-badge&label=Last%20Check&logo=github-actions&logoColor=white" alt="Last check status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/kkbrothers8795/world_ip_tv/check.yml?branch=main&style=for-the-badge&label=Last%20Check&logo=github-actions&logoColor=white" alt="Last check status" />
   <img src="https://img.shields.io/badge/Channels-Daily_Verified-00C853?style=for-the-badge&logo=tv&logoColor=white" alt="Daily verified channels" />
-  <img src="https://img.shields.io/github/commit-activity/m/romaxa55/world_ip_tv?style=for-the-badge&color=blueviolet&label=Commits" alt="Commit activity" />
-  <img src="https://img.shields.io/github/stars/romaxa55/world_ip_tv?style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/kkbrothers8795/world_ip_tv?style=for-the-badge&color=blueviolet&label=Commits" alt="Commit activity" />
+  <img src="https://img.shields.io/github/stars/kkbrothers8795/world_ip_tv?style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 <p align="center">
-  <a href="https://romaxa55.github.io/world_ip_tv/output/index.m3u">📥 Download Playlist</a> •
+  <a href="https://kkbrothers8795.github.io/world_ip_tv/output/index.m3u">📥 Download Playlist</a> •
   <a href="https://megav.app/iptv-playlists">IPTV on MegaV</a> •
   <a href="https://t.me/MegaV_VPN">Telegram @MegaV_VPN</a>
 </p>
@@ -25,7 +25,7 @@
 Copy this URL and paste it into any IPTV player:
 
 ```
-https://romaxa55.github.io/world_ip_tv/output/index.m3u
+https://kkbrothers8795.github.io/world_ip_tv/output/index.m3u
 ```
 
 That's it. No sign-up. No account. No payment. Just free live TV.
@@ -64,7 +64,7 @@ That's it. No sign-up. No account. No payment. Just free live TV.
          │
          ▼
   You stream via
-  romaxa55.github.io/world_ip_tv/
+  kkbrothers8795.github.io/world_ip_tv/
 ```
 
 > With 648+ commits the automation has been running reliably since the project launched — channels that stop working are purged within hours.
