@@ -25,7 +25,7 @@
 Copy this URL and paste it into any IPTV player:
 
 ```
-https://kkbrothers8795.github.io/world_ip_tv/output/index.m3u
+https://raw.githubusercontent.com/Kkbrothers8795/world_ip_tv/master/output/index.m3u
 ```
 
 That's it. No sign-up. No account. No payment. Just free live TV.
