@@ -42,7 +42,9 @@ jobs:
           git diff --cached --quiet || git commit -m "Update available channels"
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        run: |
+          git pull --rebase origin master
+          git push origin master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
