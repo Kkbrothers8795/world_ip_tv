@@ -1,13 +1,9 @@
-name: Checker IPTV
+name: Check IPTV
 
 on:
   schedule:
     - cron: '0 0 */4 * *'
   workflow_dispatch:
-
-concurrency:
-  group: country-iptv
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -20,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,13 +38,11 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add country/*
+          git add output/*
           git diff --cached --quiet || git commit -m "Update available channels"
 
-      - name: Pull latest changes
-        run: |
-          git pull --rebase origin master
-
       - name: Push changes
-        run: |
-          git push origin master
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
