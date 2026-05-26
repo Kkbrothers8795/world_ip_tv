@@ -315,8 +315,6 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" group-title="International",Gusto TV (1080p)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LlASANE.png" group-title="International",GuyBai TV (1080p)
-https://livechannel.mdc.akamaized.net/stitch/livechannel/1342/master1400000.m3u8;session=live_stream_1342
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="International",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NX3vvAX.png" group-title="International",HarPal Geo (360p)
@@ -353,8 +351,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="International",Juice TV (1080p) [Not 24/7]
-https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="International",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="International",Kanal Jadid
@@ -379,6 +375,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duEDsne.png" group-title="International",Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="International",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b475xOT.jpg" group-title="International",Little Guyana TV (1080p)
 https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="International",Logos TV (1080p) [Not 24/7]
@@ -491,6 +489,8 @@ https://iptv.tapesh.tv/tapesh/playlist.m3u8
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="International",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="International",Peace TV English (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="International",Peace TV Urdu (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="International",Peer TV Alto Adige (1280p)
@@ -625,6 +625,8 @@ https://live.cmr24.fm/TVI/HD/chunks.m3u8
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSM0Pkr.png" group-title="International",TBN Inspire (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png" group-title="International",Tele Pam (1080p)
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (480p)
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="International",TeleMoldova + [Geo-blocked]
@@ -653,8 +655,6 @@ https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767-width200-quality90.jpeg" group-title="International",The Reuters 60 (1080p)
 https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="International",Tipik
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" group-title="International",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="International",Tom And Jerry (720p)
