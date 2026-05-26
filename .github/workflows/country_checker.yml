@@ -1,4 +1,4 @@
-name: Check IPTV
+name: Country IPTV
 
 on:
   schedule:
