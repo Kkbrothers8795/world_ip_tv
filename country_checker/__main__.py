@@ -6,7 +6,7 @@ from .utils import read_playlist_urls, create_index_m3u
 
 async def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    playlists_path = os.path.join(base_dir, 'country_playlists.txt)
+    playlists_path = os.path.join(base_dir, 'country_playlists.txt')
 
     playlist_urls = read_playlist_urls(playlists_path)
     semaphore = asyncio.Semaphore(200)
