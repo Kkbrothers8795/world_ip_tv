@@ -111,7 +111,7 @@ class IPTVChecker:
 
         # Определение пути для сохранения файла на уровень выше
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        output_dir = os.path.join(current_dir, '..', 'output')
+        output_dir = os.path.join(current_dir, '..', 'country')
         os.makedirs(output_dir, exist_ok=True)
         filename = os.path.basename(self.playlist_url)
         output_path = os.path.join(output_dir, filename)
