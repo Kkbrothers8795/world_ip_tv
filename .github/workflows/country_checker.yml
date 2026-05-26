@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add output/*
+          git add country/*
           git diff --cached --quiet || git commit -m "Update available channels"
 
       - name: Push changes
