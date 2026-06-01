@@ -21,6 +21,8 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="Legislative",Buena Park Television (360p)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hv4zi9N.png" group-title="Legislative",Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Legislative",Canal Gov (720p)
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Legislative",Canal Parlamento (360p) [Not 24/7]
@@ -37,8 +39,6 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0vaDea.png" group-title="Legislative",Chino Hills City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gS4x0uX.png" group-title="Legislative",City of Monroe Government Channel
-https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duM548G.png" group-title="Legislative",City of Oakland (KTOP) (480p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="Legislative",City TV Capital City Connection [Not 24/7]
@@ -113,12 +113,8 @@ https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Legislative",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHkRDQw.png" group-title="Legislative",Leominster TV Government (720p)
-https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a36SPo6.png" group-title="Legislative",Lex TV (720p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d5w2pT4.png" group-title="Legislative",LGTV (1080p)
-https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="Legislative",LHCAZTV
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjkVuFF.png" group-title="Legislative",Long Beach Television (720p)
@@ -133,10 +129,6 @@ https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="Legislative",Monroe County Television MCTV (Monroe County FL) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="Legislative",Nashua GTV Channel 16 Nashua NH (720p)
-https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eA2WSXa.png" group-title="Legislative",Natick Government Channel (720p)
-https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",National Assembly TV (720p)
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Legislative",NCM Government & Politics
@@ -149,16 +141,12 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Legislative",Ontario Parliamentary Network (720p)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyPTfxA.png" group-title="Legislative",Orange Government Access TV (Orange CT) (720p)
-https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="Legislative",Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)
 https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative",Parliament TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmNc3hu.png" group-title="Legislative",PHLgovTV (720p)
-https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="Legislative",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tMAQU7.png" group-title="Legislative",Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
@@ -235,5 +223,3 @@ https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 72 (1080p)
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 73 (1080p)
-https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
