@@ -93,6 +93,8 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0YfI90.png" group-title="Lifestyle",UA Fashion TV
+https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Lifestyle",Yachting TV (1080p)
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Lifestyle",Доктор (1080p)

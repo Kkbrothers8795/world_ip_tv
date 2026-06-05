@@ -11,8 +11,8 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="Sports",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Sports",Alkass Five (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports",Alkass Four (1080p)
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sports",Alkass One (1080p)
@@ -27,14 +27,14 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two (1080p)
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports",AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPWFXkL.png" group-title="Sports",ATG Live (720p)
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="Sports",BEK TV Sports West (720p)
@@ -63,8 +63,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="Sports",DSports Uruguay
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports",El-Heddaf TV (1080i)
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia (1080p)
@@ -119,16 +117,14 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora Sports (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Sports",ge Fast (1080p)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="Sports",GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sports",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="Sports",Gol Classics (1080p)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="Sports",Golf Network (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK4UUX4.png" group-title="Sports",Horse TV (720p)
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports",HTSpor TV (1080p)
@@ -139,14 +135,6 @@ https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Sports",ITV Deportes (720p)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",J Sports 3 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",J Sports 4 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Sports",Jordan Sport (1080p)
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="Sports",KCMN-LD6 (1080p)
@@ -189,8 +177,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (1080p)
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7237pCC.png" group-title="Sports",Nittele G Plus (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
@@ -215,6 +201,8 @@ https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playl
 https://srv1.adriatelekom.com/RaiSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports",Rally TV (1080p)
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports",Red Bull TV (1080p)
@@ -239,8 +227,10 @@ http://69.64.57.208/la3/index.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports",Sky Racing 2 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sport Italia (1080p)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia (1080p)
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="Sports",Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports",Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
@@ -249,12 +239,18 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Sports",SuperTennis (1080p)
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports (720p)
+https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://talenttv.lk/logo-footer.png" group-title="Sports",Talent TV (720p)
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6wZzuz.png" group-title="Sports",Tele Rebelde (480p) [Not 24/7]
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports",Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (1080p)
@@ -263,6 +259,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="Sports",TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/khj869k.png" group-title="Sports",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars (Australia) (1080p)
@@ -299,8 +297,6 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Sports",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports",W14DK-D 14.5 All Sports Television Network
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (1080p)

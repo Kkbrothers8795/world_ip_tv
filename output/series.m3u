@@ -67,14 +67,14 @@ https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg0
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Series",Don't Tell The Bride (1080p)
 https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39cSNHs.png" group-title="Series",Donna TV (480p)
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",Duck Dynasty (1080p)
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",Duck Dynasty (1080p)
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Series",Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Series",Fear Factor (1080p)
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0WMDXm.png" group-title="Series",GEM Series
@@ -133,8 +133,6 @@ https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" group-title="Series",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="Series",Sony One Series Comedie (1080p)
@@ -189,5 +187,9 @@ http://31.148.48.15/Sapfir_HD/index.m3u8
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Series",Сити Эдем ТелеНовелла [Not 24/7]
 https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="Series",Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="Series",Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Series",Смотрим Честный Детектив (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8

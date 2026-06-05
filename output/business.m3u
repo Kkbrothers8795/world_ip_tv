@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Business",30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Business",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png" group-title="Business",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Business",Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="Business",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="Business",apart TV (1080p)
@@ -57,8 +61,6 @@ https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="Business",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business",CNBC Asia (720p)
-https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="Business",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" group-title="Business",CNBC Bajar (1080p)
@@ -71,6 +73,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Business",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Business",Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Business",Entrepreneur TV [Geo-blocked]
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png" group-title="Business",ET Now Swadesh (720p)
