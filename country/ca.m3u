@@ -13,8 +13,6 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Canada",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Canada",C Malayalam TV (1080p)
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Canada",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News (1080p)
@@ -57,6 +55,8 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Canada",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada",ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeS4Sjv.png" group-title="Canada",icnet 1
@@ -101,6 +101,8 @@ https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",Pardesi TV (720p)
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="Canada",PBC Tapesh TV (720p)
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Canada",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" group-title="Canada",Prime Asia TV (1080p)
@@ -113,7 +115,7 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Canada",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Canada",Red Bull TV US (1080p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Canada",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="Canada",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -195,8 +197,6 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Canada",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" group-title="Canada",TV5 Quebec Canada (1080p)
-http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Canada",TVE Internacional America (576p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Canada",TVE Internacional America HD (1080p) [Geo-blocked]
