@@ -61,8 +61,6 @@ https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Ukraine",Rada TV (720p)
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="Ukraine",Renome (576p)
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfYVCJC.png" group-title="Ukraine",Simon (720p) [Geo-blocked]
 https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="Ukraine",SK 1 (720p)
@@ -115,8 +113,6 @@ http://194.50.51.34/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" group-title="Ukraine",За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy4SoG.png" group-title="Ukraine",Ланет.TV (486p)
-https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Ukraine",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine",НТК ТВ (1080p) [Not 24/7]

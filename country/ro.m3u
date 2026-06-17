@@ -15,22 +15,12 @@ https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LI
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="Romania",Antena Stars (1280p)
 https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="Romania",Arges TV (720p)
-https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Romania",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Romania",Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Romania",AXN Black Romania [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Romania",AXN CEE Romania [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Romania",AXN White [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romania",Banat TV (720p)
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania",Bucovina TV (576i)
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Romania",Comedy Central [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Romania",Comedy Play (720p)
@@ -45,10 +35,8 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Romania",Digi Sport 3 [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Romania",Digi Sport 4 [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Romania",Disney Channel [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Romania",Disney Channel (576p)
+https://cdn.telecloud.tv/CH4141/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="Romania",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="Romania",Happy Channel
@@ -67,8 +55,8 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Romania",Kanal D (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania",Kanal D2 (360p)
-https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania",Kanal D2 (1080i)
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Romania",Light Channel (480p) [Not 24/7]
@@ -125,8 +113,6 @@ http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Romania",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Romania",TV1000 [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Romania",TVPlus Suceava (576p)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Romania",TVR 1
