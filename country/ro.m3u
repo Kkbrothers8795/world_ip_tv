@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Romania",A7TV (1080p)
-https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Romania",Agro TV (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Romania",Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania",Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" group-title="Romania",Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Romania",Antena 1 (1080p) [Not 24/7]
@@ -19,10 +21,8 @@ https://atomic.streamnet.ro/academia.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romania",Banat TV (720p)
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania",Bucovina TV (576i)
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Romania",Comedy Central [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania",Columna TV
+https://cdn.streamnet.pro/columnatv/live//chunklist_w944163831.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Romania",Comedy Play (720p)
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania",Credo TV (720p) [Not 24/7]
@@ -35,8 +35,8 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Romania",Digi Sport 3 [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Romania",Disney Channel [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Romania",Disney Channel (576p)
+https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelRomania.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="Romania",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="Romania",Happy Channel
@@ -75,14 +75,10 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Romania",Moldova TV (1080p)
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Romania",Motorvision.tv (French)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="Romania",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MoguWme.png" group-title="Romania",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Romania",Nickelodeon [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/6972/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romania",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romania",Observator News (720p)
