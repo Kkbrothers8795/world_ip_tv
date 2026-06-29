@@ -9,6 +9,8 @@ https://live.teleradiocom.tj/15/3m.m3u8
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" group-title="Science",MediBizTV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="Science",Pervyy Kosmicheskiy HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYy0Rfo.png" group-title="Science",TEC TV (576p)
 https://edgectc.com/TEC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Science",Wonder (1080p)
