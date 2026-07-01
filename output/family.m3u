@@ -3,8 +3,6 @@
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="Family",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1wdWAo.png" group-title="Family",Active Family (576p)
-https://adpnetworkhd-cmd.github.io/iptv/ActiveFamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family",Al-Souriya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/146OgfU.png" group-title="Family",alpha Cinema (1080p)
@@ -13,8 +11,6 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="Family",Canal+ Family (720p)
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",EmanTv (1080p)
-https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Family",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p)
@@ -79,7 +75,5 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="Family",TV Famille (720p)
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="Family",TV Paraense (720p)
-https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p)
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8

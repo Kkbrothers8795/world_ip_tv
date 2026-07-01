@@ -25,22 +25,16 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 https://flu.systemnet.tv/CBCSofra/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Lifestyle",CEACOM TV (1080p) [Not 24/7]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="Lifestyle",CVR Health (576p)
 https://cdn-6.pishow.tv/live/395/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Lifestyle",Domashniy (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/DomashniyHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Lifestyle",Domashniy (576p)
+http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" group-title="Lifestyle",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="Lifestyle",FASHION & LIFESTYLE (1080p)
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="Lifestyle",Fashion Finds (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Lifestyle",Fashion TV
-https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox (1080p)
-https://iptv.prosto.tv/ch369/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
@@ -67,14 +61,16 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Lifestyle",Logos TV Salud (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6tsw0O.png" group-title="Lifestyle",Loupe (1080p)
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Lifestyle",MediCOOL TV (720p)
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="Lifestyle",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Lifestyle",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Lifestyle",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Lifestyle",Nova (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle",NowMedia Television (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle",NowMedia Television Spanish (1080p)
@@ -89,8 +85,6 @@ https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Lifestyle",PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png" group-title="Lifestyle",QS24.tv (1080p)
-https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Lifestyle",QTV-6

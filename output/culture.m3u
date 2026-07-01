@@ -13,8 +13,6 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQzXErU.png" group-title="Culture",Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV
-https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Culture",Alterna TV (720p) [Not 24/7]
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmCBD3e.png" group-title="Culture",Andy Haryana (576p)
@@ -45,8 +43,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="Culture",Canal 17 RTVD (720p)
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jLLAjaw.png" group-title="Culture",Canal A (1080p)
-https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Culture",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p)
@@ -69,26 +67,26 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/in
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture",Discovering China (1080p)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="Culture",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Culture",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Culture",Eawaz TV (720p) [Not 24/7]
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zqbK2IB.png" group-title="Culture",EBS HD (1080p)
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Culture",EET TV (1080p) [Not 24/7]
-https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="Culture",El 33 Originals (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="Culture",ETV2 (720p)
 https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBlXl2T.png" group-title="Culture",Ev-tele (720p)
+https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcVntg7.png" group-title="Culture",FNX (1080p)
 https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/960px-GEB_logo_blue.png" group-title="Culture",Geb Tv (KBPX LD5) (1080p)
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",Guaymate TV (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Culture",Hmong Star TV (720p) [Not 24/7]
@@ -97,18 +95,12 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Culture",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture",Ishtar TV (1080p)
-https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture",Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai9kpuu.jpeg" group-title="Culture",JOS TV HD
-https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="Culture",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV
@@ -137,12 +129,14 @@ https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture",Miras (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Culture",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture",NHK World-Japan HD (1080p) [Geo-blocked]
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Culture",NTV Mir (576p)
-https://adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kuluji.png" group-title="Culture",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="Culture",Odisha TV (720p)
@@ -159,8 +153,6 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="Culture",Orler TV (420p) [Not 24/7]
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/voeQ6x1.png" group-title="Culture",Ost West 24 (1080p)
-https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="Culture",Paci Contemporary Channel (720p)
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Culture",Pamir TV (1080p) [Not 24/7]
@@ -185,8 +177,6 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" group-title="Culture",Saudi Thaqafiya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" group-title="Culture",Senal U
-https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" group-title="Culture",Sercem TV (1080p)
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV (720p)
@@ -214,7 +204,7 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture",TVE RS (1080p)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Culture",TVR Cultural
-https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Culture",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Culture",UCV TV (720p)

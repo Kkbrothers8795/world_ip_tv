@@ -33,12 +33,8 @@ https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Travel",Maldives TV (720p)
 https://lana.psm.mv/live/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="Travel",Moya stikhiya HD (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/Moyastikhiya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D7Lzqyl.png" group-title="Travel",NOTV New Orleans TV (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="Travel",OEPM TV (720p)
-https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="Travel",Palm Beaches TV (720p)
 https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Travel",Peer TV Alto Adige (1280p)
@@ -63,13 +59,13 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Travel",Turistik TV (720p)
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBe1GgI.png" group-title="Travel",TV OFF (1080p)
+https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Travel",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lAkMrtr.png" group-title="Travel",TV Sayohi (1080p)
 https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="Travel",TVS Travel Network (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" group-title="Travel",Vkus (576p)
-http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="Travel",Телепутешествия (576p)
 http://31.148.48.15/Teleputeshestviya/index.m3u8

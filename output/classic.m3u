@@ -7,8 +7,6 @@ http://45.4.1.201:8000/play/a11i/index.m3u8
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Classic",BRIDGE Classic (576p)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GltIfWW.jpeg" group-title="Classic",Cúcuta Retro TV [Not 24/7]
-https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic",FilmRise Classic TV (720p)
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png" group-title="Classic",LAMIL35 TV

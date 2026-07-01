@@ -13,9 +13,7 @@ https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Comedy",Camera Smile (480p)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Comedy",Comedy Central (1080p)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central Latin America (1080p)
 http://181.119.93.83:8000/play/a1di/index.m3u8
@@ -33,14 +31,12 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Failarmy International (720p)
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="Comedy",Gagsnetwork (576p)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuwwoO2.png" group-title="Comedy",Jordan Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Comedy",Just for Laughs Gags (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UU4SGuk.png" group-title="Comedy",Kamedi (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/Kamedi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Comedy",Komediynoe (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/KomediynoeHD.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy",Mr Bean Live Action (1080p)
@@ -51,8 +47,6 @@ https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6GOWgtE.png" group-title="Comedy",Polsat Comedy Central Extra HD (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralExtraPolsat.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="Comedy",RiffTrax (720p)
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" group-title="Comedy",Roya Comedy (1080p)

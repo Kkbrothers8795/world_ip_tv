@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49ZENis.png" group-title="Series",3Cat Plats bruts (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD3vZU6.png" group-title="Series",4ever Drama (1080p)
-https://iptv.prosto.tv/ch49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Series",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
@@ -27,8 +25,6 @@ https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfKlGbX.png" group-title="Series",At Home with Family Handyman (720p)
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Series",Atreseries (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Series",Bab Al Hara (1080p)
@@ -39,10 +35,8 @@ https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg0
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Series",Bolt (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/BoltRussia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Series",Bolt (576p)
-https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
+http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama (576p)
 https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="Series",Celebrity Name Game (1080p) [Geo-blocked]
@@ -81,8 +75,6 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Series",Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" group-title="Series",Epic Drama Ukraine [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa
 http://181.119.93.83:8000/play/a1sr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Series",Fear Factor (1080p)
@@ -127,28 +119,20 @@ https://mst3k-roku.amagi.tv/playlist.m3u8
 https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Series",Nash Bridges Channel (1080p) [Geo-blocked]
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="Series",Nashe (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="Series",Nosey (1080p)
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Series",NTV Series (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Series",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0JJySN.png" group-title="Series",Paramount Network [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Series",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Series",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Series",REV'N Action (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7I0MVf.png" group-title="Series",Roya Drama (1080p)
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" group-title="Series",RTL Crime HD (1080p)
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Series",Saphire (1080p)
-http://77.232.131.211:80/Sapfir/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="Series",Smotrim 100% Lyubov (720p)
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="Series",Smotrim 100% Muzhskoe (720p)
@@ -185,14 +169,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",TVI Ficção (720p)
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="Series",TVP Seriale (1080p) [Not 24/7]
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7281/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",Unsolved Mysteries (720p)
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" group-title="Series",Viasat Serial (1080p) [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Series",We TV (720p)
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Series",XPTV US (720p)
