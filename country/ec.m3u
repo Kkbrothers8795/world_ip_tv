@@ -15,6 +15,8 @@ https://tvdatta.com:3578/live/antenaunolive.m3u8
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Ecuador",AXN Latin America Andes (1080p)
+http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador",Bacán Te Veo (360p)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador",Capricho TV (720p) [Not 24/7]
@@ -33,8 +35,12 @@ http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Ecuador",Disney Jr. Latin America South HD (1080p)
 http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Ecuador",DSports (1080p)
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Ecuador",Ecotel TV (720p)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador",Ecuador TV (1080p)
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (1080p)
 http://179.60.51.134:8888/ECUAVISA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Guayaquil (1080p) [Not 24/7]
@@ -45,6 +51,8 @@ https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Ecuador",FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavision (1080p)
+http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador (1080p) [Not 24/7]
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Ecuador",History Latin America (1080p)
@@ -101,16 +109,20 @@ http://190.107.232.9:8082/livestream/stream.m3u8
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador",RTRTV (1080p)
 https://tv3ecuador.site/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Ecuador",RTU (1080p) [Not 24/7]
-https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",RTS (1080p)
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Ecuador",RTU (1080p)
+http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador",RTV Riobamba (720p) [Not 24/7]
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador",Señal Positiva TV (1080p)
-https://eu1.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Ecuador",Sono Onda TV (720p)
 https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Ecuador",Studio Universal Latin America (1080p)
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television (1080p)
+http://177.234.249.178:8888/TC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas (1080p)
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Ecuador",Telemar (720p)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Ecuador",Telepremier Plus (1080p)
@@ -119,10 +131,10 @@ http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xIuFSnx.png" group-title="Ecuador",TV Cisne (1080p)
 https://video2.lhdserver.es/tvcisne/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador",TV Color Canal 36 (720p)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Ecuador",TV Universal Ecuador (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador",TVC (1080p)
+http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador",UNIANDES TV (720p) [Not 24/7]
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Ecuador",Universal TV Latin America (1080p)
@@ -131,5 +143,7 @@ http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Ecuador",VitoTVO (1080p)
 http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="Ecuador",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Ecuador",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

@@ -61,8 +61,6 @@ https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Iran",High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l8XMKTT.png" group-title="Iran",HodHod Farsi TV (1080p)
-https://northtelecom.b-cdn.net/hodhodtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ke5xn4E.png" group-title="Iran",icnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Iran",iFilm 2
@@ -227,8 +225,6 @@ https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default" group-title="Iran",Velayat TV
 https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Iran",WiseHumanTv (1080p)
-https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="Iran",Yazd
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Iran",YourTime TV
