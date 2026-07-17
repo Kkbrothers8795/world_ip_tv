@@ -125,6 +125,8 @@ https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jQbmyK.png" group-title="Netherlands",Regio TV De Bilt (720p)
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Netherlands",RN7 TV (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="Netherlands",RPL TV Woerden (720p)
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Netherlands",RTV 1 (720p)
@@ -198,7 +200,7 @@ https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Netherlands",The Chat Show Channel (1080p)
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Netherlands",Tipik (720p)
-http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
+http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="Netherlands",TV Ellef (1080p)
 http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Netherlands",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
@@ -241,5 +243,7 @@ https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Netherlands",ZFM Zoetermeer (720p)
 https://zfmzoetermeer.nl/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Netherlands",Ziggo Sport 5 (1080p)
+http://145.239.5.177/349/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Netherlands",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
