@@ -33,12 +33,12 @@ https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Portugal",MCM Top (1080p)
 http://89.33.29.118/MCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="Portugal",NPC Rádio e TV (720p)
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Portugal",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="Portugal",Porto Canal (720p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Portugal",Rádio Sines (720p) [Geo-blocked]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="Portugal",RFPtv (360p)
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="Portugal",SIC Alta Definição (1080p)
@@ -63,5 +63,3 @@ https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Portugal",TVI Reality (720p) [Not 24/7]
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdpvKpS/cropped-Asset-1.png" group-title="Portugal",Way TV
-https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
