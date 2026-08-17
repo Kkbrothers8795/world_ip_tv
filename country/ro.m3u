@@ -3,6 +3,8 @@
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Romania",Agro TV (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Romania",Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" group-title="Romania",Alfa Omega TV (1080p) [Not 24/7]
@@ -67,8 +69,6 @@ https://moldovatv.ro/live-tv/live.m3u8
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MoguWme.png" group-title="Romania",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romania",Nova TV Brasov (576p) [Not 24/7]
-http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romania",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="Romania",PROFI 24 TV
@@ -115,8 +115,8 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania",TVR Iasi (1080p) [Not 24/7]
 http://82.208.141.70:8778/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania",TVR International
-https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Romania",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="Romania",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania",TVR Targu-Mures
