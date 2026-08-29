@@ -9,8 +9,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Weather",FOX Weather (1080p) [Geo-blocked]
 https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1xLhAEq.png" group-title="Weather",Megatiempo (1080p)
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Weather",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",Sky News Weather (720p)
