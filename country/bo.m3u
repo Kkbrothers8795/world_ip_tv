@@ -31,6 +31,8 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 http://15.204.246.24:8080/CTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/taGdzLe.png" group-title="Bolivia",CVC (1080p)
 http://15.204.246.24:8080/CVCHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="Bolivia",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://dialogolarededucativa.com/wp-content/uploads/2024/02/cropped-cropped-314708081_105832265676231_8790041320160213071_n.jpg" group-title="Bolivia",Dialogo La Red Educativa (720p)
 https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Bolivia",Disney Channel Latin America (1080p)
@@ -89,16 +91,18 @@ https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" group-title="Bolivia",Radio San Gabriel (720p)
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" group-title="Bolivia",Radio Universitaria San Andres (720p)
-https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Bolivia",Red ADvenir TV (360p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="Bolivia",Red America TV (1080p)
 https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="Bolivia",Red DTV (1080p)
 http://15.204.246.24:8080/DTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" group-title="Bolivia",Red Rubi (720p)
-https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Bolivia",Red TV Shop (720p)
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia",Red Uno (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia",Red Uno La Paz (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia",RTP (576p)
 https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2m8PVpA.png" group-title="Bolivia",Sol TV (720p)
@@ -121,8 +125,6 @@ https://edge.enhdtv.com/8064/index.m3u8
 http://15.204.246.24:8080/TVCulturasSD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="Bolivia",TV Latina (1080p)
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBe1GgI.png" group-title="Bolivia",TV OFF (1080p)
-https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7c0b4Y4.png" group-title="Bolivia",TVU Sucre (720p)
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Bolivia",UMSA TVU Internacional (720p)
