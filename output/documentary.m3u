@@ -5,6 +5,8 @@ http://stream.mcquack.net/70/index.m3u8
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="Documentary",Al Arabiya Programs (1280p)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="Documentary",Arsenal (576p)
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary (1080p)
@@ -39,7 +41,7 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Documentary",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
@@ -97,11 +99,9 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="Documentary",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Documentary",KPVM Story Television
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="Documentary",KTOO 360TV 3 (FNX)
-https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" group-title="Documentary",Law & Crime (720p)
+#EXTINF:-1 tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" group-title="Documentary",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Quest_logo.png/960px-Quest_logo.png" group-title="Documentary",Law & Crime (720p)
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="Documentary",Love Pets (1080p)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
@@ -111,6 +111,8 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary [Geo-blocked]
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="Documentary",Nano (576p)
@@ -125,6 +127,8 @@ http://138.121.15.230:9002/NAT-GEO/index.m3u8
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
 http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (576p)
+http://103.165.93.31:8095/nationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p)
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America (1080p)
@@ -153,8 +157,6 @@ https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="Documentary",Safari TV (480p) [Not 24/7]
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" group-title="Documentary",Sky Nature (576p)
 https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5Uosum.png" group-title="Documentary",Spektrum
@@ -181,14 +183,16 @@ https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary",Viasat History [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39qZ68J.png" group-title="Documentary",Viasat History (576p)
+http://dtv.vol.net.ua/Viasat-History/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary",Viasat Nature [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Documentary",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Documentary",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",viju Nature (576p)
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="Documentary",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentary",WaterBear (1080p)

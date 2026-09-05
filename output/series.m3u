@@ -9,8 +9,10 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",All Weddings We TV (720p) [Geo-blocked]
-https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Series",ABC 5 Boston MA (WCVB) (720p)
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",All Weddings We TV
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Series",Amedia Hit (1080p)
@@ -73,6 +75,8 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Series",Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa (1080p)
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Series",Fear Factor (1080p)
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life (576p)
@@ -107,6 +111,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFqfyfY.png" group-title="Series",Midsomer Murders (1080p)
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Mir Seriala (576p)
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Series",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" group-title="Series",Most Haunted (1080p)
@@ -115,8 +121,6 @@ https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist
 https://mst3k-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Series",Mythbusters (1080p)
 https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Series",Nash Bridges Channel (1080p) [Geo-blocked]
-https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="Series",Nashe HD (576p)
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Series",Nevskiy (1080p)
@@ -125,6 +129,8 @@ https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Series",NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Series",NTV-Hit (576p)
+http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Series",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)
@@ -135,7 +141,7 @@ https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Series",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Series",Rev'n Action (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOXN7hX.png" group-title="Series",Rev'n Action (720p)
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Series",Saphire (1080p)
 http://77.232.131.211/Sapfir/manifest.m3u8
@@ -159,8 +165,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Series",The Chat Show Channel (1080p)
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="Series",The Conners (1080p) [Geo-blocked]
-https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2sAz8dZ.png" group-title="Series",The Doctors (720p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Series",The Johnny Carson Show (720p)
@@ -173,7 +177,7 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" group-title="Series",True Crime Network+ (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Series",True Crime Network+ (1080p) [Geo-blocked]
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Series",True Crime UK (1080p)
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
@@ -183,14 +187,14 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",TVI Ficção (720p)
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",Unsolved Mysteries (720p)
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Series",USA Network (1080p)
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Series",We TV (720p)
+http://170.254.17.2/WE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Series",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" group-title="Series",Yam Tichoni (1080p)
@@ -199,8 +203,6 @@ http://stream.mcquack.net/46/index.m3u8
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Series",Zylo Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Series",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Series",Сити Эдем КиноДок [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Series",Сити Эдем ТелеНовелла [Not 24/7]
