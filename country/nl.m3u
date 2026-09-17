@@ -117,6 +117,8 @@ https://radioaalsmeer.nl:4443/live/tv.m3u8
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Netherlands",RadioToppers (720p)
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Netherlands",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Netherlands",RN7 TV (1080p)
 https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="Netherlands",RPL TV Woerden (720p)
