@@ -29,8 +29,6 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" group-title="Legislative",Channel 10 (United States) (720p)
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/au07aLr.png" group-title="Legislative",Channel 18 GAC
-https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="Legislative",City of Fort Pierce (720p)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bv9OGrH.png" group-title="Legislative",City of Pompano Beach (720p)
@@ -65,8 +63,6 @@ https://video.oct.dc.gov/out/u/15_12.m3u8
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Legislative",DerryTV 17 (720p)
 https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="Legislative",Detroit Channel 10
-https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Legislative",District of Columbia Network (1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Legislative",Duma TV (720p)
@@ -95,6 +91,8 @@ https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="Legislative",HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b25XfCj.png" group-title="Legislative",JNE TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",Justicia TV (Mexico) (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Legislative",Justicia TV (Peru) (1080p)
@@ -137,6 +135,8 @@ https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CM91sME.png" group-title="Legislative",Pasco TV (480p)
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="Legislative",PBC TV Channel 20 (720p)
+https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tMAQU7.png" group-title="Legislative",PCTV 26 (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmNc3hu.png" group-title="Legislative",PHLgovTV (720p)
@@ -171,6 +171,8 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="Legislative",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara (Brazil) (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara (Paraguay) (1080p)
 http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",TV from the Danish Parliament (1080p) [Not 24/7]

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle",10 Bold (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="Lifestyle",30A Luxe Life Discovered (720p)
-https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sC0K5BZ.png" group-title="Lifestyle",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Lifestyle",Antena Monden (720p)
@@ -67,6 +65,8 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="Lifestyle",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2709.png" group-title="Lifestyle",Health Channel (1080p)
+http://89.33.29.115:8080/Health/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Lifestyle",INFAST (1080p)
@@ -77,6 +77,8 @@ https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Lifestyle",Localish (1080p)
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Lifestyle",MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="Lifestyle",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Lifestyle",MRTV Farmer
@@ -103,6 +105,8 @@ http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Lifestyle",Salira TV (720p)
 https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="Lifestyle",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHFlTEy.png" group-title="Lifestyle",Smart LifeStyle TV (720p)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="Lifestyle",So... Real UK (720p)
