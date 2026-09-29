@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="Texas",ABC KRGV-TV
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="Texas",ABC KXXV (720p)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSMtDlz.png" group-title="Texas",ATXN1 (1080p)
