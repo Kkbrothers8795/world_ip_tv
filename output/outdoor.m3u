@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor",30A Darcizzle Offshore (720p)
-https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrYc3Q.png" group-title="Outdoor",Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Outdoor",Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Outdoor",Agro TV (Peru) (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV (Romania) (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Outdoor",AgroCanal (720p)
@@ -45,8 +45,6 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Outdoor",Moya Planeta (1080p)
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor",Ohotnik i rybolov HD (1080p)
@@ -79,8 +77,6 @@ https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor",Red Bull TV DE (1080p)
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor",Red Bull TV ES (1080p)
-https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor",Red Bull TV SD (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor",Red Bull TV UK (1080p)
@@ -105,8 +101,6 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 http://45.162.64.114/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Outdoor",TVAgro (720p)
-http://168.228.44.241:9999/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Outdoor",UMC TV (720p)
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Outdoor",WaterBear (1080p)

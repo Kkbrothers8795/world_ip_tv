@@ -9,6 +9,8 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYksTee.png" group-title="Cooking",Chef TV (720p)
 http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" group-title="Cooking",Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Cooking",City Eden Recepty Gurmana [Not 24/7]
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Cooking",Cooking Panda (576p)
@@ -35,8 +37,6 @@ http://stream.mcquack.net/179/index.m3u8
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="Cooking",Mad Dog and Merrill (540p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
-#EXTINF:-1 tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="Cooking",Master Chefs Academy TV (720p)
-https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",Tastemade (1080p)
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",Tastemade UK (1080p)
