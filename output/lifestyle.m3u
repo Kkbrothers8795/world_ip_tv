@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle",10 Bold (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="Lifestyle",30A Luxe Life Discovered (720p)
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sC0K5BZ.png" group-title="Lifestyle",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Lifestyle",Antena Monden (720p)
@@ -17,8 +19,6 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Lifestyle",BBC Home & Garden (1080p)
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle Poland (1080p)
-http://57.128.231.171:8080/305/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="Lifestyle",Better Health TV (480p)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png" group-title="Lifestyle",Biz TV (1080p)
@@ -51,12 +51,8 @@ http://stream.mcquack.net/227/index.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Lifestyle",Fashion TV (1080p)
 http://stream.mcquack.net/287/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="Lifestyle",Fashion&LifeStyle (1080p)
-http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV (1080p)
-http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
@@ -71,8 +67,6 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 http://88.212.15.17/live/hgtv_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejPii8T.png" group-title="Lifestyle",HGTV (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle",HGTV (Poland) (1080p)
-http://57.128.231.171:8080/241/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle",HGTV (United States) (720p)
 http://tvsen7.aynascope.net/hgtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle",HGTV Asia (1080p)
@@ -89,6 +83,8 @@ https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Lifestyle",Localish (1080p)
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
+#EXTINF:-1 tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" group-title="Lifestyle",Luxembourg Global Radio TV (1080p)
+https://stream.globalradio.lu/lgr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Lifestyle",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="Lifestyle",Monte Carlo Digital Television (1080p)
@@ -101,8 +97,6 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BEs160o.png" group-title="Lifestyle",Nuta Gold
-http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="Lifestyle",ON Life (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="Lifestyle",Otkritiy mir. Zdorove (576p)
@@ -135,6 +129,10 @@ https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC (Hungary)
 http://88.212.15.17/live/tlc_hungary/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Lifestyle",TLC (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Lifestyle",TLC (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC (Russia) (1080p)
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC Latin America (1080p)
