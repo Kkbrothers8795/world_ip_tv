@@ -17,6 +17,8 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Comedy",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="Comedy",Comedy TV (United States) (720p)
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (1080p)
 http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy+ (720p)
@@ -31,10 +33,10 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy UK (720p)
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png" group-title="Comedy",In Puii Mei (576p)
-https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png" group-title="Comedy",iRoast (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png" group-title="Comedy",iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuwwoO2.png" group-title="Comedy",Jordan Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Comedy",Just for Laughs Gags (1080p)
