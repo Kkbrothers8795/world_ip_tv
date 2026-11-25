@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sZUIhGc.png" group-title="Lithuania",2TV (1080p)
 https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="Lithuania",Delfi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="Lithuania",Delfi TV (1080p)
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjQtIpM.png" group-title="Lithuania",Info TV (1080p)
 https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
